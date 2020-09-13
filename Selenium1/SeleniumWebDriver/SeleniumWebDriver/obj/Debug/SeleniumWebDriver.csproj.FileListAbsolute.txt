@@ -1,0 +1,26 @@
+D:\University\github\Epam2019\Selenium\SeleniumWebDriver\SeleniumWebDriver\bin\Debug\SeleniumWebDriver.exe.config
+D:\University\github\Epam2019\Selenium\SeleniumWebDriver\SeleniumWebDriver\bin\Debug\SeleniumWebDriver.exe
+D:\University\github\Epam2019\Selenium\SeleniumWebDriver\SeleniumWebDriver\bin\Debug\SeleniumWebDriver.pdb
+D:\University\github\Epam2019\Selenium\SeleniumWebDriver\SeleniumWebDriver\bin\Debug\WebDriver.dll
+D:\University\github\Epam2019\Selenium\SeleniumWebDriver\SeleniumWebDriver\bin\Debug\WebDriver.xml
+D:\University\github\Epam2019\Selenium\SeleniumWebDriver\SeleniumWebDriver\obj\Debug\SeleniumWebDriver.csprojAssemblyReference.cache
+D:\University\github\Epam2019\Selenium\SeleniumWebDriver\SeleniumWebDriver\obj\Debug\SeleniumWebDriver.Form1.resources
+D:\University\github\Epam2019\Selenium\SeleniumWebDriver\SeleniumWebDriver\obj\Debug\SeleniumWebDriver.Properties.Resources.resources
+D:\University\github\Epam2019\Selenium\SeleniumWebDriver\SeleniumWebDriver\obj\Debug\SeleniumWebDriver.csproj.GenerateResource.cache
+D:\University\github\Epam2019\Selenium\SeleniumWebDriver\SeleniumWebDriver\obj\Debug\SeleniumWebDriver.csproj.CoreCompileInputs.cache
+D:\University\github\Epam2019\Selenium\SeleniumWebDriver\SeleniumWebDriver\obj\Debug\SeleniumWebDriver.csproj.CopyComplete
+D:\University\github\Epam2019\Selenium\SeleniumWebDriver\SeleniumWebDriver\obj\Debug\SeleniumWebDriver.exe
+D:\University\github\Epam2019\Selenium\SeleniumWebDriver\SeleniumWebDriver\obj\Debug\SeleniumWebDriver.pdb
+D:\4 kurs\testing\Selenium1\SeleniumWebDriver\SeleniumWebDriver\bin\Debug\SeleniumWebDriver.exe.config
+D:\4 kurs\testing\Selenium1\SeleniumWebDriver\SeleniumWebDriver\bin\Debug\SeleniumWebDriver.exe
+D:\4 kurs\testing\Selenium1\SeleniumWebDriver\SeleniumWebDriver\bin\Debug\SeleniumWebDriver.pdb
+D:\4 kurs\testing\Selenium1\SeleniumWebDriver\SeleniumWebDriver\bin\Debug\WebDriver.dll
+D:\4 kurs\testing\Selenium1\SeleniumWebDriver\SeleniumWebDriver\bin\Debug\WebDriver.xml
+D:\4 kurs\testing\Selenium1\SeleniumWebDriver\SeleniumWebDriver\obj\Debug\SeleniumWebDriver.csprojAssemblyReference.cache
+D:\4 kurs\testing\Selenium1\SeleniumWebDriver\SeleniumWebDriver\obj\Debug\SeleniumWebDriver.Form1.resources
+D:\4 kurs\testing\Selenium1\SeleniumWebDriver\SeleniumWebDriver\obj\Debug\SeleniumWebDriver.Properties.Resources.resources
+D:\4 kurs\testing\Selenium1\SeleniumWebDriver\SeleniumWebDriver\obj\Debug\SeleniumWebDriver.csproj.GenerateResource.cache
+D:\4 kurs\testing\Selenium1\SeleniumWebDriver\SeleniumWebDriver\obj\Debug\SeleniumWebDriver.csproj.CoreCompileInputs.cache
+D:\4 kurs\testing\Selenium1\SeleniumWebDriver\SeleniumWebDriver\obj\Debug\SeleniumWebDriver.csproj.CopyComplete
+D:\4 kurs\testing\Selenium1\SeleniumWebDriver\SeleniumWebDriver\obj\Debug\SeleniumWebDriver.exe
+D:\4 kurs\testing\Selenium1\SeleniumWebDriver\SeleniumWebDriver\obj\Debug\SeleniumWebDriver.pdb

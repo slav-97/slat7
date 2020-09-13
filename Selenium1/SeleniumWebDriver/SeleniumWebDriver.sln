@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2018
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SeleniumWebDriver", "SeleniumWebDriver\SeleniumWebDriver.csproj", "{163F9E02-3E9E-4326-A284-5D82EF727C4C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{163F9E02-3E9E-4326-A284-5D82EF727C4C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{163F9E02-3E9E-4326-A284-5D82EF727C4C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{163F9E02-3E9E-4326-A284-5D82EF727C4C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{163F9E02-3E9E-4326-A284-5D82EF727C4C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D6430992-648A-4641-A51A-A1CF30113469}
+	EndGlobalSection
+EndGlobal
